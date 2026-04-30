@@ -1,0 +1,9 @@
+{
+    "Name": "sleeveColors",
+    "Author": "SomeoneEls",
+    "Version": "2.0.0",
+    "Description": "Custom Sleeve colors",
+    "UniqueID": "SomeoneEls.sleeveColors",
+    "EntryDll": "sleeveColors.dll",
+    "MinimumApiVersion": "3.0.0"
+}
